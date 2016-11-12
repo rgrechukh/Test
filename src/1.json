@@ -1,0 +1,18 @@
+[{
+		"name" : "Roman",
+		"surname" : "Grechukh",
+		"age" : "20",
+		"address" : {
+			"city" : "Lviv",
+			"street" : "Tserkovna"
+		}
+	},
+	{
+		"name" : "Nazar",
+		"surname" : "Bagriy",
+		"age" : "20",
+		"address" : {
+			"city" : "Lviv",
+			"street" : "PidDubom"
+		}
+	}]
